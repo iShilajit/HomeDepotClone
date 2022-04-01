@@ -1,0 +1,88 @@
+var artificialflower=[
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/6f66b6eb-2451-47da-8f77-dbe10f395cf9/svn/naturae-decor-artificial-flowers-out-para-70bc-64_400.jpg`,
+        title:`70 in. Artificial Bird of Paradise  `,
+        auth: `by NATURE DECOR`,
+        rate:`⭐⭐⭐(12)`,
+        price:`81.48`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/8a6d3f87-930c-4302-9cd4-5f85c93019c6/svn/nearly-natural-artificial-flowers-6140-s4-bu-64_400.jpg`,
+        title:`UV Resistant Indoor/Outdoor Geranium Artificial Bush (Set of 4) `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐(6)`,
+        price:`38.39`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/5bee7917-77be-47f7-821b-dfe95a4720fb/svn/national-tree-company-artificial-flowers-ras-192lr-1-64_400.jpg`,
+        title:`9 in. Artificial Bougainvillea Plant Hanging Basket `,
+        auth: `by National Tree Company`,
+        rate:`⭐⭐⭐(12)`,
+        price:`21.73`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/1a5edadb-37c7-4558-bb3a-f150bc89d513/svn/artificial-flowers-10070-64_400.jpg`,
+        title:`35 in. White orchard Magnificant Five Stemmed Orchard Shown In Full bloom this Artificial Gem Sits in circular Pot `,
+        auth: ``,
+        rate:`⭐⭐⭐⭐⭐(2)`,
+        price:`136.13`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/3af6dc90-7c7f-40b6-abcf-61e613bf34ef/svn/nearly-natural-artificial-flowers-6866-yl-64_400.jpg`,
+        title:`22 in. Artificial Hibiscus Hanging Basket `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐⭐(6)`,
+        price:`57.56`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/33b53450-c63a-4911-b0e3-1facca3e71a3/svn/nearly-natural-artificial-flowers-4804-64_400.jpg`,
+        title:`16 in. Artificial h White Phalaenopisis Silk Flower Arrangement `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐(11)`,
+        price:`47.18`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/cef8f9f2-ba40-4943-b134-c6cb1a5d6901/svn/nearly-natural-artificial-flowers-6609-rd-64_400.jpg`,
+        title:`24 in. Artificial Geranium Silk hanging Basket `,
+        auth: `by Nearly natueal`,
+        rate:`⭐⭐⭐⭐(55)`,
+        price:`65.64`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/13e754f0-88d4-49b9-b406-8f5773e437db/svn/nearly-natural-artificial-flowers-4665-64_400.jpg`,
+        title:`# ft. Artificial Peony Centerpiece Silk Flower Arrangement `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐(5)`,
+        price:`64.33`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/5636bc89-d77c-4754-9ba9-f2ad4b325371/svn/artificial-flowers-ypt01055-64_400.jpg`,
+        title:`29 in. Green Artificial Peace Lily Plant in Black Drop in pot `,
+        auth: ``,
+        rate:``,
+        price:`34.99`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/c4f85051-6ce7-4896-8861-ed031a9f3512/svn/nearly-natural-artificial-flowers-4685-ap-64_400.jpg`,
+        title:`2 in. Artificial rose Candelabrum Silk Flower Arrangement `,
+        auth: `by Nearly Natural`,
+        rate:``,
+        price:`49.74`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/f4e91ae2-e182-46df-ba80-97286fe17a6d/svn/nearly-natural-artificial-flowers-1434-64_400.jpg`,
+        title:`Artificial lily Arrangement with Vase `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐(5)`,
+        price:`51.94`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/b408aad9-c707-4125-83bf-e70b829a0c5b/svn/pure-garden-artificial-flowers-hw1500055-64_400.jpg`,
+        title:`White Artificial Calla-Lily Flowers with Stems (24-Pack) `,
+        auth: `by Pure Garden`,
+        rate:`⭐⭐⭐⭐⭐(3)`,
+        price:`26.06`,
+    },
+
+]
+localStorage.setItem("flowers",JSON.stringify(artificialflower))
