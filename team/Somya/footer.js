@@ -68,12 +68,12 @@ const foot = () => {
                 <button>GO</button>
             </div>
             <div id="socIc">
-                <i class="bi bi-meta"></i>
-                <i class="bi bi-twitter"></i>
-                <i class="bi bi-pinterest"></i>
-                <i class="bi bi-blockquote-left"></i>
-                <i class="bi bi-youtube"></i>
-                <i class="bi bi-phone-fill"></i>
+                <a href="https://www.facebook.com/homedepot" target="_blank"><i class="bi bi-meta"></i></a>
+                <a href="https://twitter.com/HomeDepot" target="_blank"><i class="bi bi-twitter"></i></a>
+                <a href="http://www.pinterest.com/homedepot/" target="_blank"><i class="bi bi-pinterest"></i></a>
+                <a href="http://blog.homedepot.com/" target="_blank"><i class="bi bi-blockquote-left"></i></a>
+                <a href="http://www.youtube.com/user/homedepot" target="_blank"><i class="bi bi-youtube"></i></a>
+                <a href="https://www.homedepot.com/c/SF_Mobile_Shopping" target="_blank"><i class="bi bi-phone-fill"></i></a>
             </div>
         </div>
     </div>
