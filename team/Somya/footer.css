@@ -1,0 +1,139 @@
+body{
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#topB{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #EEEEEE;
+    padding: 10px 0;
+    color: #323332;
+}
+#topB h3,#topB p{
+    margin: 0
+}
+#topB p b{
+    color: #3E7697;
+}
+#secB{
+    width: 90%;
+    margin: 5px auto;
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    gap: 4%;
+    justify-content: space-around;
+}
+#secB div{
+    padding: 5px;
+}
+#secB div ul{
+    list-style: none;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    color: #3E7697;
+}
+#secB div ul li{
+    margin-bottom: 4px;
+}
+#secB div ul li:first-child{
+    font-size: 18px;
+    margin-bottom: 8px;
+    font-weight: 400;
+    color: black;
+}
+#secB div ul li:hover{
+    text-decoration: underline;
+}
+#smlBox{
+    background-color: #EEEEEE;
+}
+#smlBox ul li p{
+    font-size: 14px;
+}
+#smlBox ul li i{
+    font-size: 20px;
+}
+#smlBox+p{
+    font-size: 14px;
+}
+#enEmId{
+    width: 100%;
+    display: flex;
+}
+#enEmId input{
+    width: 85%;
+    height: 30px;
+    border-radius: 0;
+    border: 1px solid gray;
+}
+#enEmId button{
+    width:12%;
+    height: 34px;
+    border-radius: 0;
+    border: 0;
+    background-color: #F86303;
+    font-weight: bold;
+    color: white;
+}
+#socIc{
+    margin-top: 10px;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+#blogos{
+    display: grid;
+    grid-template-columns: repeat(8,1fr);
+    grid-template-rows: repeat(2);
+    gap:15px;
+    width:80%;
+    margin: 0 auto;
+    text-align: center;
+}
+#blogos img{
+    width: 80%;
+    height: auto;
+    cursor: pointer;
+}
+#botF{
+    font-size: 10px;
+    text-align: center;
+}
+#botF p{
+    margin: 0;
+}
+#brands{
+    text-align: center;
+    margin-bottom: 15px;
+    /* margin-top: 30px; */
+}
+#botL{
+    display: flex;
+    font-size: 11px;
+    justify-content: space-around;
+    width: 80%;
+    margin: 10px auto;
+    color: #3E7697;
+}
+#botL p:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
+@media all and (min-width: 50px) and (max-width: 770px){
+    #topB{
+        display: none;
+    }
+    #blogos{
+        grid-template-columns: repeat(4,1fr);
+        grid-template-rows: repeat(4);
+    }
+    #secB{
+        grid-template-columns: repeat(2,1fr);
+    }
+    #botL{
+        display: none;
+    }
+}
