@@ -1,0 +1,87 @@
+var artificialplant=[
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/8e3b1a43-ed0e-4d31-80af-8337ff87c60f/svn/naturae-decor-artificial-plants-out-mons-47bc-64_400.jpg`,
+        title:`47 in. Monstera Artificial `,
+        auth: `by NATRURE DECOR`,
+        rate:`⭐⭐⭐(38)`,
+        price:`74.26`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/afd8c84f-563a-4118-adb9-1cd94590fd4d/svn/naturae-decor-artificial-plants-out-fiddle-57bc-64_400.jpg`,
+        title:`57 in. Artificial Fiddle Leaf Fig `,
+        auth: `by NATUTRE DECOR`,
+        rate:`⭐⭐⭐⭐(10)`,
+        price:`73.14`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/f446663b-b780-468f-81f3-f9e474c2b8f3/svn/naturae-decor-artificial-plants-out-palm-59bc-64_400.jpg`,
+        title:`59 in. Artificial Areca Palm Tree `,
+        auth: `by NATURE DECOR`,
+        rate:`⭐⭐⭐⭐(11)`,
+        price:`91.96`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/ab72ae07-0b15-4c6c-9db6-14b01a3de241/svn/naturae-decor-artificial-plants-out-para-45bc-64_400.jpg`,
+        title:`59.99 `,
+        auth: `by NATURE DECOR`,
+        rate:`⭐⭐⭐⭐(41)`,
+        price:`59.99`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/fe663e51-8c49-450b-a676-7d7818522140/svn/national-tree-company-artificial-plants-lmc4-700-48-6-64_400.jpg`,
+        title:`48 in. Artificial Arbovitee tree in dark Green round Growers pot `,
+        auth: `by National Tree Company`,
+        rate:`⭐⭐⭐⭐⭐(95)`,
+        price:`94.01`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/3de53e6b-385b-4fb7-8193-b39c76dfe357/svn/nearly-natural-artificial-plants-6813-64_400.jpg`,
+        title:`4 ft. Artificial Spiked Agave Plant`,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐⭐(8)`,
+        price:`114.65`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/8aa0080e-8e02-46f1-a8c7-c7658f7acab5/svn/nearly-natural-artificial-plants-8051-64_400.jpg`,
+        title:`Indoor Dieffenbacchia Artificial Plants in Creamic Planter `,
+        auth: `by Nearly Natural`,
+        rate:`⭐⭐⭐⭐(7)`,
+        price:`38.39`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/23a0ec2d-2a81-4158-805d-d7aae79ba3ee/svn/national-tree-company-artificial-plants-lcb4-700-15-1-64_400.jpg`,
+        title:`15 in. Artificial Juniper Bush in Dark Green Round Grower Pot `,
+        auth: `by National Tree Company`,
+        rate:`⭐⭐⭐⭐(69)`,
+        price:`51.99`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/0d04a627-d5a4-4dd6-a42e-f1da8d461e9f/svn/naturae-decor-artificial-plants-out-mons-29bc-64_400.jpg`,
+        title:`Monstera 29in. Indoor/Outdoor Artificial `,
+        auth: `by NATURE DECOR`,
+        rate:`⭐⭐⭐⭐(18)`,
+        price:`37.17`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/9c6d12de-9bc5-4f6a-97eb-cdb16e1b5bff/svn/naturae-decor-artificial-plants-out-palm-35bc-64_400.jpg`,
+        title:`Areca Palm 35 in. Indoor/OUtdoor Artificial `,
+        auth: `by NATURE DECOR`,
+        rate:`⭐⭐⭐⭐(27)`,
+        price:`33.74`,
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/ea1bc557-f97c-425b-b097-3c3b73879488/svn/national-tree-company-artificial-plants-lcbg4-700-15-1-64_400.jpg`,
+        title:`15 in. Artificial Golden Juniper Bush With Green Pot `,
+        auth: `by NAtional Tree Company`,
+        rate:`⭐⭐⭐⭐⭐(25)`,
+        price:`47.32`,
+    }, {
+        imgUrl:`https://images.thdstatic.com/productImages/50c05375-52eb-4476-9450-4f89674c863a/svn/artificial-plants-10170-64_400.jpg`,
+        title:`Indoor 49 in. Artificial Grass In Wicker Basket `,
+        auth: ``,
+        rate:`⭐⭐⭐⭐(2)`,
+        price:`119.59`,
+    },
+
+]
+localStorage.setItem("plants",JSON.stringify(artificialplant))
