@@ -333,8 +333,464 @@ let fridgedata=[
     </svg>`,
     },
 
-]
+];
+
+
 
 
 console.log("fridgeData",fridgedata);
 localStorage.setItem("fridge",JSON.stringify(fridgedata));
+
+let washdata=[
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/c65d396c-de54-41fe-aaa4-6299f00bc784/svn/white-lg-electronics-smart-washers-wt7800cw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/1747bd25-97d4-4aff-9fe7-28eba5c51ab8/svn/white-hotpoint-top-load-washers-htw240askws-e4_400.jpg`,
+        title:`Hotpoint3.8 cu. ft. White Top Load Washer with Agitator`,
+        model:`Model# HTW240ASKWS`,
+        rate:`⭐⭐⭐⭐(6729)`,
+        price:'57900',
+        strikeprice:"",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'3.8',
+        washcycle:'Heavy Duty',
+        htt:'44 in',
+        depth:'27 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/59e7af8b-8f0b-457d-85c0-128173344cee/svn/black-steel-lg-electronics-electric-dryers-wkex200hba-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/e70c4a49-26c7-4627-9c4d-9eb4962ac102/svn/white-lg-electronics-smart-washers-wt7800cw-e4_400.jpg`,
+        title:`LG Electronics27 in. Black Steel WashTower Laundry Center with 4.5 cu. ft. Front Load Washer and 7.4 cu. ft. Electric Dryer`,
+        model:`Model# WKEX200HBA`,
+        rate:`⭐⭐⭐⭐(1973)`,
+        price:'2298.00',
+        strikeprice:"2699.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'7.4',
+        washcycle:'Interior Light',
+        htt:'30.38 in',
+        depth:'74.38 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/846d084e-b0b2-4456-a73c-978b0dd4a05e/svn/white-samsung-top-load-washers-wa52a5500aw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/588f73e5-7eff-4749-9555-f8ac3a5a0a16/svn/white-samsung-top-load-washers-wa52a5500aw-e4_400.jpg`,
+        title:`Samsung5.2 cu. ft. Large Capacity Smart Top Load Washer with Super Speed Wash in White`,
+        model:`Model# WA52A5500AW`,
+        rate:`⭐⭐⭐⭐(294)`,
+        price:'748.00',
+        strikeprice:"999.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'5.2',
+        washcycle:'Advanced Vibration Control',
+        htt:'44.68 in',
+        depth:'29.43 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/a8b2bb7c-39c3-4f6f-9c01-a1298ece4082/svn/white-lg-electronics-front-load-washers-wm3400cw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/a2f4ee6a-7e06-4a61-92b1-68d8e45e8ad3/svn/white-lg-electronics-front-load-washers-wm3400cw-e4_400.jpg`,
+        title:`LG Electronics4.5 cu. ft. Ultra Large Capacity White Front Load Washer with Coldwash Technology`,
+        model:`Model# WM3400CW`,
+        rate:`⭐⭐⭐⭐(1444)`,
+        price:'848.00',
+        strikeprice:"949.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Advanced Vibration Control',
+        htt:'39 in',
+        depth:'30.25 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/3fa49413-771b-4a18-88fa-15996556141b/svn/white-ge-top-load-washers-gtw335asnww-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/da4ccaf0-c31a-4ed5-a6be-0c9bbb623376/svn/white-ge-top-load-washers-gtw335asnww-e4_400.jpg`,
+        title:`GE4.2 cu. ft. White Top Load Washer with Agitator`,
+        model:`Model# GTW335ASNWW`,
+        rate:`⭐⭐⭐⭐(1444)`,
+        price:'643.00',
+        strikeprice:"699.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.2',
+        washcycle:'Delicates',
+        htt:'44 in',
+        depth:'27 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/cedebd73-e771-4c51-b98d-e61678d43baa/svn/white-ge-top-load-washers-gtw465asnww-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/40ad6a8e-ce9d-4a72-809b-361f5dce3b79/svn/white-ge-top-load-washers-gtw465asnww-e4_400.jpg`,
+        title:`GE4.5 cu. ft. High-Efficiency White Top Load Washer with Agitator`,
+        model:`Model# GTW465ASNWW`,
+        rate:`⭐⭐⭐⭐(1444)`,
+        price:'699.00',
+        strikeprice:"799.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Delicates',
+        htt:'44 in',
+        depth:'27 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/deb83cd3-4a3c-4e71-9041-0ba34175a06d/svn/white-samsung-top-load-washers-wa51a5505aw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/755d6a4b-1c57-437d-9b3a-0e92034baa86/svn/white-samsung-top-load-washers-wa51a5505aw-e4_400.jpg`,
+        title:`Samsung5.1 cu. ft. Smart Top Load Washer with ActiveWave Agitator and Super Speed Wash in White`,
+        model:`Model# WA51A5505AW`,
+        rate:`⭐⭐⭐⭐(1444)`,
+        price:'748.00',
+        strikeprice:"999.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'5.1',
+        washcycle:'Advanced Vibration Control',
+        htt:'44.68 in',
+        depth:'29.43 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/8884f130-2ef0-4229-9f52-b889e545008d/svn/white-samsung-front-load-washers-wf45t6000aw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/0a0e7a39-fecd-4de7-990b-2fa80e5e3ebc/svn/white-samsung-front-load-washers-wf45t6000aw-e4_400.jpg`,
+        title:`Samsung27 in. 4.5 cu. ft. High-Efficiency White Front Load Washing Machine with Self-Clean+, ENERGY STAR`,
+        model:`Model# WF45T6000AW`,
+        rate:`⭐⭐⭐⭐(1179)`,
+        price:'698.00',
+        strikeprice:"949.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Advanced Vibration Control',
+        htt:'38 in',
+        depth:'31.3 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/18a3f51e-0bbd-44ec-9af6-f1f5e0450546/svn/black-steel-lg-electronics-front-load-washers-wm4000hba-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/1961dc9f-1bbc-4f2e-85fe-53baefc6f58a/svn/black-steel-lg-electronics-front-load-washers-wm4000hba-e4_400.jpg`,
+        title:`LG Electronics27 in. 4.5 cu. ft. Ultra Large Capacity Black Steel Smart Front Load Washing Machine with TurboWash360`,
+        model:`Model# WM4000HBA`,
+        rate:`⭐⭐⭐⭐(1388)`,
+        price:'998.00',
+        strikeprice:"1249.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Stackable',
+        htt:'39 in',
+        depth:'30.25 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/f28313ac-2c43-48e8-ad72-1126b773dfc0/svn/champagne-samsung-top-load-washers-wa52a5500ac-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/2f17fd63-4b68-4cf0-aeab-c3c1da48e99b/svn/champagne-samsung-top-load-washers-wa52a5500ac-e4_400.jpg`,
+        title:`Model# WM8100HVA`,
+        model:`294`,
+        rate:`⭐⭐⭐⭐(1444)`,
+        price:'1248.00',
+        strikeprice:"1649.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'5.2',
+        washcycle:'Stackable',
+        htt:'40.75 in',
+        depth:'32.88 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/16986828-5b4e-414c-a5c6-7badcb1b6ada/svn/graphite-steel-lg-electronics-front-load-washers-wm3600hva-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/fe39cc9b-e1c6-498f-9d99-b5be9aedafcd/svn/graphite-steel-lg-electronics-front-load-washers-wm3600hva-e4_400.jpg`,
+        title:`LG Electronics27 in. 4.5 cu. ft. Ultra Large Capacity Graphite Steel Front Load Washer with Steam and Wi-Fi Connectivity`,
+        model:`Model# WM3600HVA`,
+        rate:`⭐⭐⭐⭐(1291)`,
+        price:'1048.00',
+        strikeprice:"1149.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Smart Home Enabled',
+        htt:'39 in',
+        depth:'30.25 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/7bbf8d65-92fa-4d9b-81a6-3e979c290a9f/svn/platinum-samsung-front-load-washers-wf45r6100ap-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/62622fb9-d519-4c25-9701-50b0944d24f7/svn/platinum-samsung-front-load-washers-wf45r6100ap-e4_400.jpg`,
+        title:`Samsung4.5 cu. ft. High-Efficiency Platinum Front Load Washing Machine with Steam, ENERGY STAR `,
+        model:`Model# WF45R6100AP`,
+        rate:`⭐⭐⭐⭐(2607)`,
+        price:'748.00',
+        strikeprice:"1099.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Advanced Vibration Control',
+        htt:'38.75 in',
+        depth:'31.4 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/673f39e7-7618-4a7e-8cc8-8c32d493904f/svn/white-ge-front-load-washers-gfw550ssnww-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/c69ff17b-9b41-40d2-92c2-a06a96ffe6c2/svn/white-ge-front-load-washers-gfw550ssnww-e4_400.jpg`,
+        title:`GE4.8 cu. ft. Smart White Front Load Washer with OdorBlock UltraFresh Vent System and Sanitize with Oxi`,
+        model:`Model# GFW550SSNWW`,
+        rate:`⭐⭐⭐⭐(5111)`,
+        price:'1049.00',
+        strikeprice:"",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.8',
+        washcycle:'Smart Home Enabled',
+        htt:'39.75 in',
+        depth:'32 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/c65d396c-de54-41fe-aaa4-6299f00bc784/svn/white-lg-electronics-smart-washers-wt7800cw-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/e70c4a49-26c7-4627-9c4d-9eb4962ac102/svn/white-lg-electronics-smart-washers-wt7800cw-e4_400.jpg`,
+        title:`LG Electronics5.5 cu. ft. High Efficiency Mega Capacity Smart Top Load Washer with TurboWash3D and Wi-Fi Enabled in White, ENERGY STAR `,
+        model:`Model# WT7800CW`,
+        rate:`⭐⭐⭐⭐(2284)`,
+        price:'1048.00',
+        strikeprice:"1249.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'5.5',
+        washcycle:'Smart Home Enabled',
+        htt:'44.5 in',
+        depth:'28.38 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+    // {
+    //     imgUrl:``,
+    //     hovimgurl:``,
+    //     title:``,
+    //     model:``,
+    //     rate:`⭐⭐⭐⭐(1444)`,
+    //     price:'',
+    //     strikeprice:"",
+    //     rebates:"96913",
+    //     delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+    //     delivery:'Free',
+    //     indepth:'Standard Depth',
+    //     capacity:'',
+    //     washcycle:'',
+    //     htt:'',
+    //     depth:'',
+    //     wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+    //     <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    //     <title>icon_sm_favorite_default</title>
+    //     <desc>Created with Sketch.</desc>
+    //     <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    //         <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+    //             <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+    //         </g>
+    //     </g>
+    // </svg>`,
+
+    // },
+    {
+        imgUrl:`https://images.thdstatic.com/productImages/5071bea2-905d-4634-a45c-52ad1a17230f/svn/graphite-steel-lg-electronics-front-load-washers-wm8100hva-64_400.jpg`,
+        hovimgurl:`https://images.thdstatic.com/productImages/e70c4a49-26c7-4627-9c4d-9eb4962ac102/svn/graphite-steel-lg-electronics-front-load-washers-wm8100hva-e4_400.jpg`,
+        title:`LG Electronics5.2 cu. ft. HE Mega Capacity Front Load Washing Machine with Steam and TurboWash in Graphite Steel, ENERGY STAR`,
+        model:`Model# WM8100HVA`,
+        rate:`⭐⭐⭐⭐(1388)`,
+        price:'998.00',
+        strikeprice:"1249.00",
+        rebates:"96913",
+        delimgurl:`https://assets.thdstatic.com/images/v1/Available.svg`,
+        delivery:'Free',
+        indepth:'Standard Depth',
+        capacity:'4.5',
+        washcycle:'Stackable',
+        htt:'39 in',
+        depth:'30.25 in',
+        wishimgurl:` <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20px" height="18px" viewBox="0 0 20 18" version="1.1">
+        <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+        <title>icon_sm_favorite_default</title>
+        <desc>Created with Sketch.</desc>
+        <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+            <g id="Favorite-In-Circle" transform="translate(-8.000000, -10.000000)" fill="#FFFFFF" fill-rule="nonzero" stroke="#F96302" stroke-width="2">
+                <path d="M18.0005671,26.5526741 L25.7448183,18.4495754 C26.5542556,17.6028412 27,16.4805532 27,15.2829596 C27,14.0867399 26.5542854,12.965249 25.7443749,12.1185704 C25.0528184,11.3942184 24.1412475,11 23.1652112,11 C22.1902357,11 21.2786989,11.3943076 20.5865676,12.1192611 L19.8179944,12.9227438 L18.0007045,14.8225771 L16.158733,12.8975508 L15.4135938,12.1188127 C14.7212693,11.3941425 13.8101141,11 12.8347888,11 C11.8592829,11 10.947729,11.394263 10.2555471,12.1192694 C9.44614654,12.9654143 9,14.0876433 9,15.2836323 C9,16.4799029 9.44589668,17.601822 10.2552455,18.4489695 L18.0005671,26.5526741 Z" id="icon_sm_favorite_default"/>
+            </g>
+        </g>
+    </svg>`,
+
+    },
+];
+
+localStorage.setItem("wash",JSON.stringify(washdata));
