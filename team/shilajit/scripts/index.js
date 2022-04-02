@@ -45,3 +45,7 @@ const showCat=(catData)=>{
 }
 
 showCat(catData);
+
+
+//nav
+

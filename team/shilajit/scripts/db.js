@@ -797,10 +797,10 @@ localStorage.setItem("wash",JSON.stringify(washdata));
 
 
 let imageslide=[
-"./homedepotslide/1.png",
-"./homedepotslide/2.png",
-"./homedepotslide/3.png",
-"./homedepotslide/4.png"
+"./team/shilajit/homedepotslide/1.png",
+"./team/shilajit/homedepotslide//2.png",
+"./team/shilajit/homedepotslide/3.png",
+"./team/shilajit/homedepotslide/4.png"
 ];
 
 localStorage.setItem("banner",JSON.stringify(imageslide));
