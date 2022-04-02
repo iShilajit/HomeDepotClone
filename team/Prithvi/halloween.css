@@ -49,7 +49,7 @@
 #container {
         display:flex;
         width:95%;
-        margin: auto;
+        margin: 20px auto;
         /* border:1px solid black; */
         justify-content: center;
     }

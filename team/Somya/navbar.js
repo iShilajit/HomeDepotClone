@@ -52,8 +52,8 @@ const nav = () =>{
                             </a>
                           
                             <ul class="dropdown-menu" aria-labelledby="dropdownMenuLink">
-                              <li><a class="dropdown-item a1" href="./team/Somya/signin.html">Sign in</a></li>
-                              <li><a class="dropdown-item a2" href="./team/Somya/signup.html">Register</a></li>
+                              <li><a class="dropdown-item a1" href="/team/Somya/signin.html">Sign in</a></li>
+                              <li><a class="dropdown-item a2" href="/team/Somya/signup.html">Register</a></li>
                               <li><div style="border-bottom: 1px solid gray"></div></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-box-seam"></i> Orders & Purchases</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-credit-card-2-back"></i> My Home Depot Credit Card</a></li>

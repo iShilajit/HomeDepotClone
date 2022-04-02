@@ -1,11 +1,11 @@
      
-        #nav{
+        #navb{
             display:flex;
             justify-content: space-evenly;
             cursor: pointer;
             height:25px;
         }
-        #nav>div:hover{
+        #navb>div:hover{
             text-decoration: underline;
             text-decoration-color: orange;
             text-decoration-thickness: 3px;
@@ -42,10 +42,10 @@
          margin-top: 5%;
         margin-right: 30px; 
     }
-#box2{
+/* #box2{
     background-color: orangered;
     padding: 20px;
-}
+} */
 #box2>h1{
     color:white
 }
@@ -94,10 +94,10 @@ height: 50px;
     display: flex;
     margin-left: 30px;
 }
-i{
+/* i{
     width: 10px;
     color: orangered;
-}
+} */
 #ex{
     background-repeat: no-repeat;
     content: "";

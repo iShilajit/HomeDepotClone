@@ -14,9 +14,11 @@ s.addEventListener("click",()=>{
 //     })
 
     const home = ()=>{
-        location.href = "./index.html"
+        location.href = "/index.html"
     }
-
+document.getElementById("logo").addEventListener("click", ()=>{
+    location.href = "/index.html"
+})
     var click = 0
     const menudropdown = ()=>{
         // console.log("clicked")
