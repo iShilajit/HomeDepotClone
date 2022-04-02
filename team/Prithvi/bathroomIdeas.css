@@ -145,4 +145,18 @@ h2{
 h3{
   font-size: 16px;
 }
+h1{
+  margin-left:70px;
+  font-weight: normal;
+  font-family: "helvetica-neue",Helvetica Neue,Helvetica,Arial,sans-serif;
+  margin-bottom:50px;
+}
+#p{
+  margin:20px 70px 20PX 70PX ;
+  color:#3e7697;
+  
 
+}
+#p:hover{
+  text-decoration: underline;
+}
