@@ -39,7 +39,7 @@ const nav = () =>{
         <div id="searchbar">
             <div id="ser" class="d-flex justify-content-between">
                 <div class="input-group mb-3"  style="width: 100%">
-                    <input id="searchInput" type="text" class="form-control" aria-label="Recipient's username" aria-describedby="basic-addon2" autofocus placeholder="What can we help you find today?">
+                    <input id="searchInput" type="text"  class="form-control" aria-label="Recipient's username" aria-describedby="basic-addon2" autofocus placeholder="What can we help you find today?">
                     <div class="input-group-append">
                       <button id="searchBtn" class="btn btn-outline-secondary" type="button"><i class="bi bi-search"></i></button>
                     </div>

@@ -1,5 +1,5 @@
 
-import nav from "./navbar.js"
+import nav from "/team/Somya/navbar.js"
 let da = nav()
 
 document.getElementById("header").innerHTML = da
@@ -33,3 +33,8 @@ document.getElementById("logo").addEventListener("click", ()=>{
         }
     }
     
+
+    // const search=()=>{
+    //     let searchInput=document.getElementById("searchInput").value;
+    //     console.log(searchInput)
+    // }
