@@ -1,0 +1,51 @@
+*{
+    color:#333333
+}
+ #parent{
+    display: flex;
+    height:auto;
+    position:relative;
+    
+
+   
+    gap:10px;
+} 
+#parent>div{
+    width:100%;
+}
+#container{  
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:10px;
+    margin-top: 5%;
+}
+#container>div{
+    position: relative;
+    width:100%;
+    
+}
+img{
+    position: relative;
+    width:100%;
+}
+#child1{
+    position: relative;
+    width:60%;
+}
+
+#child2{
+    background-color: whitesmoke;
+   width:40%;
+}
+#navb{
+    display:flex;
+    gap:20px;
+}
+#brands {
+display: flex;
+flex-direction: row;
+flex-wrap: wrap;
+justify-content: center;
+gap:20px;
+margin-top: 5%;
+}
