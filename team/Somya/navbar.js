@@ -139,8 +139,8 @@ const nav = () =>{
                                     <div><a class="dropdown-item" href="#"><p>Appliances</p></a></div>
                                     <div class="sideCard">
                                         <ul>
-                                            <li><a href="#">Refrigerators</a></li>
-                                            <li><a href="#">Washers & Dryers</a></li>
+                                            <li><a href="./team/shilajit/ref.html">Refrigerators</a></li>
+                                            <li><a href="./team/shilajit/washmachine.html">Washers & Dryers</a></li>
                                             <li><a href="#">Dishwashers</a></li>
                                             <li><a href="#">Microwaves</a></li>
                                             <li><a href="#">Wall Ovens</a></li>
@@ -298,17 +298,17 @@ const nav = () =>{
                                     <div class="sideCard ext">
                                         <ul>
                                             <li><a href="#"><b>Home Accents</b></a></li>
-                                            <li><a href="#">Vases</a></li>
-                                            <li><a href="#">Sculptures</a></li>
-                                            <li><a href="#">Decorative Trays</a></li>
+                                            <li><a href="./team/Atul/vases.html">Vases</a></li>
+                                            <li><a href="./team/Atul/sculptures.html">Sculptures</a></li>
+                                            <li><a href="./team/Atul/decotraays.html">Decorative Trays</a></li>
                                             <li><a href="#">Decorative Pillows</a></li>
                                             <li><a href="#">Throw Blankets</a></li>
                                             <li><a href="#">Poufs</a></li>
                                             <li><a href="#"><b>Artificial Greenery</b></a></li>
-                                            <li><a href="#">Artificial Flowers</a></li>
-                                            <li><a href="#">Artificial Plants</a></li>
+                                            <li><a href="./team/Atul/artificialF.html">Artificial Flowers</a></li>
+                                            <li><a href="./team/Atul/artificialP.html">Artificial Plants</a></li>
                                             <li><a href="#">Artificial Trees</a></li>
-                                            <li><a href="#"><b>Decorative Storage</b></a></li>
+                                            <li><a href="./team/Atul/jewelry.html"><b>Decorative Storage</b></a></li>
                                             <li><a href="#"><b>Home Office</b></a></li>
                                             <li><a href="#"><b>Candles</b></a></li>
                                             <li><a href="#"><b>Rugs</b></a></li>
@@ -427,7 +427,7 @@ const nav = () =>{
                                     <div><a class="dropdown-item" href="#"><p>Home Decor Ideas</p></a></div>
                                     <div class="sideCard ext">
                                         <ul>
-                                            <li><a href="#">Bathroom</a></li>
+                                            <li><a href="./team/Prithvi/bathroomIdeas.html">Bathroom</a></li>
                                             <li><a href="#">Living Room</a></li>
                                             <li><a href="#">Paint</a></li>
                                             <li><a href="#">Bedroom</a></li>
@@ -481,61 +481,18 @@ const nav = () =>{
                 </div>
                 <div>
                     <div class="dropdown">
-                        <a class="btn btn-secondary alld" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="btn btn-secondary alld" href="./team/Rashid/cal.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Project Calculators
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="dropdown">
-                        <a class="btn btn-secondary alld" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="btn btn-secondary alld" href="./team/Rashid/install.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Installation & Services
                         </a>
                       
-                        <ul class="dropdown-menu ads ads2" aria-labelledby="dropdownMenuLink">
-                          <li>
-                              <div class="d-grid hov">
-                                    <div><a class="dropdown-item" href="#"><p>Popular Installations</p></a></div>
-                                    <div class="sideCard ext">
-                                        <ul>
-                                            <li><a href="#">Cabinet Installation</a></li>
-                                            <li><a href="#">Carpet Installation</a></li>
-                                            <li><a href="#">Counetrtop Installation</a></li>
-                                            <li><a href="#">Door Installation</a></li>
-                                            <li><a href="#">Fence Installation</a></li>
-                                        </ul>
-                                    </div>
-                              </div>
-                          </li>
-                          <li>
-                            <div class="d-grid hov">
-                                  <div><a class="dropdown-item" href="#"><p>Popular Repairs</p></a></div>
-                                  <div class="sideCard ext">
-                                      <ul>
-                                          <li><a href="#">Bathroom Fan Repair</a></li>
-                                          <li><a href="#">Bathtub Repair</a></li>
-                                          <li><a href="#">Ceiling Fan Repair</a></li>
-                                          <li><a href="#">Outlet Repair</a></li>
-                                          <li><a href="#">Heater Repair</a></li>
-                                      </ul>
-                                  </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="d-grid hov">
-                                  <div><a class="dropdown-item" href="#"><p>Trending</p></a></div>
-                                  <div class="sideCard ext">
-                                      <ul>
-                                          <li><a href="#">Bathroom Remodelling</a></li>
-                                          <li><a href="#">Cabinet Makeover</a></li>
-                                          <li><a href="#">Kitchen Remodelling</a></li>
-                                          <li><a href="#">TV Mounting</a></li>
-                                          <li><a href="#">Home Organization</a></li>
-                                      </ul>
-                                  </div>
-                            </div>
-                        </li>  
-                        </ul>
+                       
                     </div>
                 </div>
                 <div>
