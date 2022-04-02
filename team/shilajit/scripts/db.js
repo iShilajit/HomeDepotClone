@@ -794,3 +794,37 @@ let washdata=[
 ];
 
 localStorage.setItem("wash",JSON.stringify(washdata));
+
+
+let imageslide=[
+"./homedepotslide/1.png",
+"./homedepotslide/2.png",
+"./homedepotslide/3.png",
+"./homedepotslide/4.png"
+];
+
+localStorage.setItem("banner",JSON.stringify(imageslide));
+
+
+let cat=[
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/hp-50-51-sbc-ss-button-dsk.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat1-Appliances.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat2-Bath.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat4-Building.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat5-Decor.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/doorswindows.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat7-Electrical.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat8-Flooring.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat9-Hardware.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat10-Hvac.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat11-Kitchen.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat12-LawnGarden.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat13-Lighting.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat14-OutdoorLiving.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat15-Paint.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat16-Plumbing.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat17-StorageOrg.png",
+    "https://contentgrid.thdstatic.com/hdus/en_US/DTCCOMNEW/fetch/NexGen/ContentPage/Cat18-Tools.png",
+]
+
+localStorage.setItem("cat",JSON.stringify(cat));
