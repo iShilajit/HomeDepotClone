@@ -259,7 +259,8 @@ body{
 
   .tam{
       display: flex;
-      margin-right: 150px;
+      /* margin-right: 150px; */
+    margin-left: 10px;
       
   }
   /* #mapp{
@@ -281,7 +282,7 @@ body{
 
   #top{
       position: relative;
-      top: -240px;
+      /* top: -240px; */
   }
 
   #top p{
