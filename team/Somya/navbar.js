@@ -58,7 +58,7 @@ const nav = () =>{
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-box-seam"></i> Orders & Purchases</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-credit-card-2-back"></i> My Home Depot Credit Card</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-person"></i> Account Profile</a></li>
-                              <li><a class="dropdown-item a3" href="#"><i class="bi bi-cart-check"></i> Instant Checkout Settings</a></li>
+                              <li><a class="dropdown-item a3" href="/team/shilajit/cart.html"><i class="bi bi-cart-check"></i> Instant Checkout Settings</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-suit-heart"></i> Lists</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-tag"></i> My Subscriptions</a></li>
                               <li><a class="dropdown-item a3" href="#"><i class="bi bi-shield-shaded"></i> Military Discount Program</a></li>
@@ -67,7 +67,7 @@ const nav = () =>{
                         <a class="btn btn-secondary macc" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Lists <i class="bi bi-suit-heart"></i>
                         </a>
-                        <a class="btn btn-secondary macc" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="btn btn-secondary macc" href="/team/shilajit/cart.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Cart <i class="bi bi-cart"></i>
                         </a>
                     </div>
@@ -116,7 +116,7 @@ const nav = () =>{
                         <li><a class="btn btn-secondary macc" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Lists <i class="bi bi-suit-heart"></i>
                         </a></li>
-                        <li><a class="btn btn-secondary macc" href="#" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <li><a class="btn btn-secondary macc" href="/team/shilajit/cart.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Cart <i class="bi bi-cart"></i>
                         </a></li>
                     </ul>

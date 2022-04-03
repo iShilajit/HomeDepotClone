@@ -1,5 +1,6 @@
 let fridgeData =JSON.parse(localStorage.getItem("fridge"))||[];
 console.log("fridgeData",fridgeData);
+var cartAdd=[];
 
 const main = document.querySelector(".main");
 
@@ -76,7 +77,7 @@ const showFridge=(fridgeData)=>{
         addtocart.setAttribute("id","addtocart");
         addtocart.innerText=`Add to Cart`;
         addtocart.addEventListener("click",()=>{
-            gocart(el)
+            gocart(el,index)
         })
 
         div.append(img,hovimg,wishimg,headdiv,modelratediv,pricediv,infodiv,addtocart);
@@ -88,6 +89,9 @@ const showFridge=(fridgeData)=>{
 
 showFridge(fridgeData)
 
-const gocart=(el)=>{
-    console.log(el);
+const gocart=(d,i)=>{
+    console.log("ssssss",d);
+    cartAdd.push(d);
+    console.log(cartAdd);
+    localStorage.setItem("cartItems",JSON.stringify(cartAdd))
 }
