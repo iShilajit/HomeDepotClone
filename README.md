@@ -121,13 +121,13 @@ The Contributors to this project are:
 Shilajit Paul: https://github.com/iShilajit
 
 
-Soumya Hakke:https://github.com/soumyah1512
+Soumya Hakke:(medium Blog Link) https://medium.com/@soums816/masai-collaboration-project-homedepot-clone-c3eb82fb6f5c
 
 
 Atul Kumar Panigrahi: https://github.com/AtulKumar69
 
 
-Prithvi Raj Keerthi:(medium Blog Link) https://medium.com/@prithvirajkeerthi
+Prithvi Raj Keerthi:(medium Blog Link) https://medium.com/@prithvirajkeerthi/masai-collaboration-project-homedepot-clone-11ba6bd1d133
 
 
 Rasheed Shaik:https://github.com/Rasheedsheikh
