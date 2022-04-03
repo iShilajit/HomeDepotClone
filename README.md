@@ -124,7 +124,7 @@ Shilajit Paul: https://github.com/iShilajit
 Soumya Hakke:(medium Blog Link) https://medium.com/@soums816/masai-collaboration-project-homedepot-clone-c3eb82fb6f5c
 
 
-Atul Kumar Panigrahi: https://github.com/AtulKumar69
+Atul Kumar Panigrahi: (medium Blog Link) https://medium.com/@AtulKumar69/masai-collaboration-project-homedepot-clone-f67f7fcfd076
 
 
 Prithvi Raj Keerthi:(medium Blog Link) https://medium.com/@prithvirajkeerthi/masai-collaboration-project-homedepot-clone-11ba6bd1d133
