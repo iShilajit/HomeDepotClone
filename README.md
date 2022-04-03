@@ -118,16 +118,16 @@ We all learned how to plan a project and execute that.
 
 The Contributors to this project are:
 
-Prithvi Raj Keerthi:https://github.com/prithvirajkeerthi
+Shilajit Paul: https://github.com/iShilajit
+
+
+Soumya Hakke:https://github.com/soumyah1512
 
 
 Atul Kumar Panigrahi: https://github.com/AtulKumar69
 
 
-Shilajit Paul: https://github.com/iShilajit
-
-
-Soumya Hakke:https://github.com/soumyah1512
+Prithvi Raj Keerthi:https://github.com/prithvirajkeerthi
 
 
 Rasheed Shaik:https://github.com/Rasheedsheikh
