@@ -34,12 +34,13 @@
     }
     #box1{
         position: absolute;
+        top: 20px;
          width: 32%;
-        height: 90% ;
+        height: 70% ;
         background-color:white;
         right:0;
         top:0;
-         margin-top: 5%;
+         margin-top: 250px;
         margin-right: 30px; 
     }
 /* #box2{
@@ -59,20 +60,26 @@
     text-align: center;
 }
 
-input{
-    width: 150px;
+#zip{
+    width: 30%;
+    margin: auto;
+    position: relative;
+    left: 30px;
     height: 40px;
     text-align: center;
     margin-left: 130px;
 }
 #box5>button{
 height: 50px;
-    width: 100PX;
+    width: 30%;
     background-color: orangered;
     color: white;
-    margin-left: 160px;
-    margin-top: 20px;
+    
     border: none;
+    margin: auto;
+    position: relative;
+    left: 160px;
+    top: 10px;
 }
 #box6{
     position: absolute;
