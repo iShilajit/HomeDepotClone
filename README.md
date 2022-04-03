@@ -5,7 +5,7 @@ We have been learning Full Stack-Web Development at Masai School.We would like t
 
 [https://visionary-pastelito-fbdbfd.netlify.app/]
 
-# Tech Stack:-
+### Tech Stack:-
 
 
 HTML
@@ -14,7 +14,7 @@ CSS
 
 JAVASCRIPT (DOM Manipulation & Local Storage)
 
-# Home Page:-
+### Home Page:-
 
 This is the main landing page of our website.
 Here clicking on any option on the Navbar will redirect the user to the respective Product’s Page.
@@ -31,7 +31,7 @@ All of these functions are working properly.
 ![name-of-you-image](https://miro.medium.com/max/1400/1*WLCJZacobN3kBOJ1FFPG1Q.png)
 
 
-# Signup and Login Window:-
+### Signup and Login Window:-
 
 After the user is redirected to the Signup page
 
@@ -51,7 +51,7 @@ Using these Login credentials, users can access website services through the Log
 ![name-of-you-image](https://miro.medium.com/max/1400/1*n_MvW6ihnDsVUnRDJabttw.png)
 
 
-# Product Page :-
+### Product Page :-
 
 This is one of the product pages of our website.
 
@@ -61,7 +61,7 @@ Users can shop by category according to their needs.
 
 ![name-of-you-image](https://miro.medium.com/max/1400/1*qtgHJefP599_lKFh7GbphA.png)
 
-# Cart Window:-
+### Cart Window:-
 
 Clicking on the Add To Cart Button of that product will add the product to the cart.
 
@@ -74,7 +74,7 @@ Below is the page of the cart, where the user can know his shopping details.
 
 and then proceed to the Checkout button. Clicking on that button will redirect the user to the Address Page.
 
-# Payment Page:-
+### Payment Page:-
 
 Here the user has to fill in his payment details and click Confirm for payment.
 
@@ -95,7 +95,7 @@ On the night of the first day of construct week, we arranged a Zoom meeting and 
 Communication is a crucial factor for any project and the work has to be done as a team., so we used technologies like slack, WhatsApp, and zoom to know each other's progress. We started our day with a scrum using Zoom at 10:00 in the morning and used WhatsApp for further Work-related queries.
 The main tool that we used for collaboration & version control is GitHub Desktop & GitHub Browser. Working on the same page might make some merge errors. So we decided that each and everyone will work on different parts of the project.
 
-# Learning:-
+### Learning:-
 
 
 We all became proficient in reading the code of team members.
@@ -113,7 +113,7 @@ Our skills in JavaScript and DOM manipulation became better.
 We all learned how to plan a project and execute that.
 
 
-# Contributors
+### Contributors
 
 
 The Contributors to this project are:
