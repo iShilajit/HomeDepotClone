@@ -36,5 +36,5 @@ checkout.addEventListener("click",()=>{
 })
 
 const gopayment=()=>{
-
+window.location.href="/team/Atul/payment.html";
 }
