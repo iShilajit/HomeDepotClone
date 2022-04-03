@@ -300,7 +300,7 @@ const nav = () =>{
                                             <li><a href="#"><b>Home Accents</b></a></li><br>
                                             <li><a href="/team/Atul/vases.html">Vases</a></li><br>
                                             <li><a href="/team/Atul/sculptures.html">Sculptures</a></li><br>
-                                            <li><a href="/team/Atul/decotraays.html">Decorative Trays</a></li><br>
+                                            <li><a href="/team/Atul/decotrays.html">Decorative Trays</a></li><br>
                                             <li><a href="#">Decorative Pillows</a></li><br>
                                             <li><a href="#">Throw Blankets</a></li><br>
                                             <li><a href="#">Poufs</a></li><br>
