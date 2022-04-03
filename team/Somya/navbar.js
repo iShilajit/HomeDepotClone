@@ -481,14 +481,14 @@ const nav = () =>{
                 </div>
                 <div>
                     <div class="dropdown">
-                        <a class="btn btn-secondary alld" href="./team/Rashid/cal.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="btn btn-secondary alld" href="/team/Rashid/cal.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Project Calculators
                         </a>
                     </div>
                 </div>
                 <div>
                     <div class="dropdown">
-                        <a class="btn btn-secondary alld" href="./team/Rashid/install.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="btn btn-secondary alld" href="/team/Rashid/install.html" role="button" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-expanded="false">
                             Installation & Services
                         </a>
                       
