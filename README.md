@@ -5,7 +5,7 @@
 
 HomeDepot Clone
 
-We have been learning Full Stack-Web Development at Masai School.We would like to share my construct week project that we have made during unit-3 at Masai school.Here is the link of our homedepot cone site.
+We have been learning Full Stack-Web Development at Masai School.We would like to share our construct week project that we have made during unit-3 at Masai school.Here is the link of our homedepot cone site.
 
 [https://visionary-pastelito-fbdbfd.netlify.app/]
 
