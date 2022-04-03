@@ -155,7 +155,7 @@ Atul Kumar Panigrahi: (medium Blog Link) https://medium.com/@AtulKumar69/masai-c
 
 Prithvi Raj Keerthi:(medium Blog Link) https://medium.com/@prithvirajkeerthi/masai-collaboration-project-homedepot-clone-11ba6bd1d133
 
-Rasheed Shaik:https://github.com/Rasheedsheikh
+Rasheed Shaik:(medium Blog Link) https://medium.com/@rasheedsheikh9786/masai-collaboration-project-homedepot-clone-23272ae317ef
 
 
 
