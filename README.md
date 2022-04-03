@@ -83,7 +83,35 @@ Clicking on that button will place your order and redirect you to the order plac
 ![name-of-you-image](https://miro.medium.com/max/1400/1*gfbBBfPGK9_NnEWpjBzDmg.png)
 
 
-Getting Started…
+### HomeDecor and Furnitures(Vases Page)
+
+This page shows regarding all the products about vases.We have provided add to cart button here to shop.Below is the snap
+
+![aaa](https://user-images.githubusercontent.com/99708068/161433704-d88a389f-ab40-454f-8298-d8294e677e39.png)
+
+### Project Ideas Page
+
+Apart from products,appliances and goods
+this site also provides project ideas and their installation .
+
+.We have provided tutorial videos on installations,projects.
+
+Below is the snap
+
+![xxx](https://user-images.githubusercontent.com/99708068/161433708-7ba59359-82ac-446f-a21b-e3103bd99a02.png)
+
+
+### Project Calculator Page
+
+This page is useful to calculate  the total cost estimation of Projects choosed by customer.
+
+Below is the snap
+
+![rrr](https://user-images.githubusercontent.com/99708068/161433707-4f490c3a-9ee1-4a96-a150-57b490ae6c29.png)
+
+
+
+### Getting Started…
 
 
 It was a challenging journey for me and all my team members to develop this Site. We all were excited and self-motivated to make this clone as good as the real Homedepot website.
