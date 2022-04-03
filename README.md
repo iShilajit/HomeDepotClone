@@ -127,7 +127,7 @@ Soumya Hakke:https://github.com/soumyah1512
 Atul Kumar Panigrahi: https://github.com/AtulKumar69
 
 
-Prithvi Raj Keerthi:https://github.com/prithvirajkeerthi
+Prithvi Raj Keerthi:(medium Blog Link) https://medium.com/@prithvirajkeerthi
 
 
 Rasheed Shaik:https://github.com/Rasheedsheikh
