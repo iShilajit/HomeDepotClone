@@ -139,8 +139,8 @@ const nav = () =>{
                                     <div><a class="dropdown-item" href="#"><p>Appliances</p></a></div>
                                     <div class="sideCard">
                                         <ul>
-                                            <li><a href="./team/shilajit/ref.html">Refrigerators</a></li>
-                                            <li><a href="./team/shilajit/washmachine.html">Washers & Dryers</a></li>
+                                            <li><a href="/team/shilajit/ref.html">Refrigerators</a></li>
+                                            <li><a href="/team/shilajit/washmachine.html">Washers & Dryers</a></li>
                                             <li><a href="#">Dishwashers</a></li>
                                             <li><a href="#">Microwaves</a></li>
                                             <li><a href="#">Wall Ovens</a></li>
@@ -298,17 +298,17 @@ const nav = () =>{
                                     <div class="sideCard ext">
                                         <ul>
                                             <li><a href="#"><b>Home Accents</b></a></li><br>
-                                            <li><a href="./team/Atul/vases.html">Vases</a></li><br>
-                                            <li><a href="./team/Atul/sculptures.html">Sculptures</a></li><br>
-                                            <li><a href="./team/Atul/decotraays.html">Decorative Trays</a></li><br>
+                                            <li><a href="/team/Atul/vases.html">Vases</a></li><br>
+                                            <li><a href="/team/Atul/sculptures.html">Sculptures</a></li><br>
+                                            <li><a href="/team/Atul/decotraays.html">Decorative Trays</a></li><br>
                                             <li><a href="#">Decorative Pillows</a></li><br>
                                             <li><a href="#">Throw Blankets</a></li><br>
                                             <li><a href="#">Poufs</a></li><br>
                                             <li><a href="#"><b>Artificial Greenery</b></a></li><br>
-                                            <li><a href="./team/Atul/artificialF.html">Artificial Flowers</a></li><br>
-                                            <li><a href="./team/Atul/artificialP.html">Artificial Plants</a></li><br>
+                                            <li><a href="/team/Atul/artificialF.html">Artificial Flowers</a></li><br>
+                                            <li><a href="/team/Atul/artificialP.html">Artificial Plants</a></li><br>
                                             <li><a href="#">Artificial Trees</a></li><br>
-                                            <li><a href="./team/Atul/jewelry.html"><b>Decorative Storage</b></a></li><br>
+                                            <li><a href="/team/Atul/jewelry.html"><b>Decorative Storage</b></a></li><br>
                                             <li><a href="#"><b>Home Office</b></a></li><br>
                                             <li><a href="#"><b>Candles</b></a></li><br>
                                             <li><a href="#"><b>Rugs</b></a></li><br>
@@ -427,14 +427,14 @@ const nav = () =>{
                                     <div><a class="dropdown-item" href="#"><p>Home Decor Ideas</p></a></div>
                                     <div class="sideCard ext">
                                         <ul>
-                                            <li><a href="./team/Prithvi/bathroomIdeas.html">Bathroom</a></li>
-                                            <li><a href="#">Living Room</a></li>
-                                            <li><a href="#">Paint</a></li>
-                                            <li><a href="#">Bedroom</a></li>
-                                            <li><a href="#">Dining Room</a></li>
-                                            <li><a href="#">Flooring</a></li>
-                                            <li><a href="#">Hallway & Wall</a></li>
-                                            <li><a href="#">Small Spaces</a></li>
+                                            <li><a href="/team/Prithvi/bathroomIdeas.html">Bathroom</a></li><br>
+                                            <li><a href="/team/Prithvi/halloween.html">Halloween</a></li><br>
+                                            <li><a href="#">Paint</a></li><br>
+                                            <li><a href="#">Bedroom</a></li><br>
+                                            <li><a href="#">Dining Room</a></li><br>
+                                            <li><a href="#">Flooring</a></li><br>
+                                            <li><a href="#">Hallway & Wall</a></li><br>
+                                            <li><a href="#">Small Spaces</a></li><br>
                                             </ul>
                                     </div>
                               </div>
